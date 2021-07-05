@@ -1,9 +1,9 @@
 # ReFood
 Tampilan App
 
-![SS CREATE](/image/main.png)
+![SS Main Screes](/images/main.png)
 
 
-![SS CREATE](/image/MealByCategory.png)
+![SS Meal by category](/images/MealByCategory.png)
 
-![SS CREATE](/image/MealDetail.png)
+![SS Meal detail](/images/MealDetail.png)
